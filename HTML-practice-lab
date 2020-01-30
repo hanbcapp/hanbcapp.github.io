@@ -33,4 +33,5 @@
 	<input type="text" id="number">
 	<input type="text" id="address">
 	<button type="submit">Apply Today</button>
+	</form>
 	</div>
