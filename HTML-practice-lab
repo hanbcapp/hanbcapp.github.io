@@ -5,11 +5,11 @@
 	</head>
 	<body>
 		<header>
-		<h1>Hannah Capps</h1>
+		<main><h1>Hannah Capps</h1></main>
 		<ul>
-			<li>Contact</li> <a href="#Contact">Welcome to Paw Pals</a>
-			<li>Available Dogs</li> <a href="#Available Dogs">Puppy Pal Friends<a/>
-			<li>Adoption Fees</li> <a href="#Adoption Fees">Adoption fee may apply</a>
+			<li><a href="#Contact">Welcome to Paw Pals</a></li>
+			<li><a href="#Available Dogs">Puppy Pal Friends<a/></li>     
+			<li><a href="#Adoption Fees">Adoption fee may apply</a></li>
 		</ul>
 		<h2>Welcome to Paw Pals</h2>
 		</header>
